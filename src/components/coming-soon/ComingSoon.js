@@ -15,6 +15,7 @@ export default class ComingSoon extends React.Component {
         return (
             <div>
                 Coming Soon ...
+                <Delay ms={10000}/>
             </div>
         )
     }
@@ -24,11 +25,11 @@ export default class ComingSoon extends React.Component {
         return (
             <div>
                 <span>Fun. </span> 
-                <Delay ms={500}/>
+                <Delay ms={1500}/>
                 <span>Fitness. </span> 
-                <Delay ms={500}/>
+                <Delay ms={1500}/>
                 <span>Football.</span>
-                <Delay ms={1000}/>
+                <Delay ms={2000}/>
                 { this.renderComingSoon() }
             </div>
         )
