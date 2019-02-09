@@ -1,10 +1,10 @@
 import React from 'react';
 
-import ComingSoon from './ComingSoon'
+import ComingSoon from './coming-soon/ComingSoon'
 
 const App = () => {
     return (
-        <div>
+        <div className="body">
             <ComingSoon />
         </div>
     )
