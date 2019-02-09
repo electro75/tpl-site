@@ -1,13 +1,12 @@
 .coming-soon {
     height: 100vh;
-    background-image: url("./football-background.jpg");
+    background-image: url("../../assets/football-background.jpg");
     background-size: cover;
     font-family: 'Staatliches', cursive;
 }
 
 .texts {
-    color: #4a148c;
     font-size: 65px;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
