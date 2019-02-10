@@ -13,7 +13,7 @@ export default class ComingSoon extends React.Component {
 
     renderComingSoon() {
         return (
-            <div>
+            <div className="animate-color">
                 Coming Soon ...
                 <Delay ms={10000}/>
             </div>
@@ -25,11 +25,11 @@ export default class ComingSoon extends React.Component {
         return (
             <div>
                 <span>Fun. </span> 
-                <Delay ms={1500}/>
+                <Delay ms={800}/>
                 <span>Fitness. </span> 
-                <Delay ms={1500}/>
+                <Delay ms={800}/>
                 <span>Football.</span>
-                <Delay ms={2000}/>
+                <Delay ms={1000}/>
                 { this.renderComingSoon() }
             </div>
         )
@@ -41,7 +41,7 @@ export default class ComingSoon extends React.Component {
             <div className="coming-soon">
                 <Typing className="texts"
                         startDelay={500}>
-                    <span>Thane Players League</span>
+                    <span>Thane Players League.</span>
                     <br/>
                     <Delay ms={500}/>
                     {this.renderSlogan()}
