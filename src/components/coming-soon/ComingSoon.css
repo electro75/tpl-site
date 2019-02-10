@@ -37,6 +37,12 @@
     }
 }
 
+@media screen and (max-width: 400px) {
+    .texts {
+        font-size: 45px;
+    }
+}
+
 @media screen and (min-width: 600px)  {
     .coming-soon {
         background-image: url("../../assets/tab-bg.jpg");
