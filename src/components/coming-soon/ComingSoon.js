@@ -24,12 +24,13 @@ export default class ComingSoon extends React.Component {
 
         return (
             <div>
-                <span>Fun. </span> 
-                <Delay ms={800}/>
-                <span>Fitness. </span> 
-                <Delay ms={800}/>
-                <span>Football.</span>
+                <span>Fun.</span>
+                <Backspace count={3} delay={750} />
+                <span>itness.</span>
+                <Backspace count={7} delay={750} />
+                <span>ootball.</span>
                 <Delay ms={1000}/>
+                
                 { this.renderComingSoon() }
             </div>
         )
