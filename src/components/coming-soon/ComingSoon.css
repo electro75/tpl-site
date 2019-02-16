@@ -30,7 +30,7 @@
 
 @media screen and (max-width: 600px) {
     .coming-soon {
-        background-image: url("../../assets/mobile-bg.jpg");
+        background-image: url("https://storage.googleapis.com/tplsite-media/assets/mobile-bg.jpg");
     }
     .texts{
         font-size: 65px;
@@ -45,7 +45,7 @@
 
 @media screen and (min-width: 600px)  {
     .coming-soon {
-        background-image: url("../../assets/tab-bg.jpg");
+        background-image: url("https://storage.googleapis.com/tplsite-media/assets/tab-bg.jpg");
     }
 }
 
