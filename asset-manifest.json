@@ -1,13 +1,13 @@
 {
-  "main.css": "/tpl-site/static/css/main.eaf1266f.chunk.css",
-  "main.js": "/tpl-site/static/js/main.70fbbad2.chunk.js",
-  "main.js.map": "/tpl-site/static/js/main.70fbbad2.chunk.js.map",
-  "static/js/1.bc29d417.chunk.js": "/tpl-site/static/js/1.bc29d417.chunk.js",
-  "static/js/1.bc29d417.chunk.js.map": "/tpl-site/static/js/1.bc29d417.chunk.js.map",
-  "runtime~main.js": "/tpl-site/static/js/runtime~main.f3ff63f2.js",
-  "runtime~main.js.map": "/tpl-site/static/js/runtime~main.f3ff63f2.js.map",
-  "static/css/main.eaf1266f.chunk.css.map": "/tpl-site/static/css/main.eaf1266f.chunk.css.map",
-  "index.html": "/tpl-site/index.html",
-  "precache-manifest.9c12a59301d1bbb184ad83c2385be6eb.js": "/tpl-site/precache-manifest.9c12a59301d1bbb184ad83c2385be6eb.js",
-  "service-worker.js": "/tpl-site/service-worker.js"
+  "main.css": "/static/css/main.eaf1266f.chunk.css",
+  "main.js": "/static/js/main.70fbbad2.chunk.js",
+  "main.js.map": "/static/js/main.70fbbad2.chunk.js.map",
+  "static/js/1.bc29d417.chunk.js": "/static/js/1.bc29d417.chunk.js",
+  "static/js/1.bc29d417.chunk.js.map": "/static/js/1.bc29d417.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.eaf1266f.chunk.css.map": "/static/css/main.eaf1266f.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.87cf7ea4f128f7c2de3ded27b24f701c.js": "/precache-manifest.87cf7ea4f128f7c2de3ded27b24f701c.js",
+  "service-worker.js": "/service-worker.js"
 }
